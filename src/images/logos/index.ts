@@ -1,4 +1,3 @@
-import ConsultlyLogo from "./consultly.svg";
 import AmbitLogo from "./ambit.png";
 import BarepapersLogo from "./barepapers.svg";
 import BimLogo from "./bim.png";
@@ -15,9 +14,10 @@ import ParabolLogo from "./parabol.svg";
 import TastyCloudLogo from "./tastycloud.png";
 import YearProgressLogo from "./yearprogress.svg";
 import Minimal from "./minimal.svg";
+import Extra360 from "./extra360.jpeg";
 
 export {
-  ConsultlyLogo,
+  Extra360,
   AmbitLogo,
   BarepapersLogo,
   BimLogo,
