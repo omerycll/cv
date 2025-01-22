@@ -9,7 +9,7 @@ export const RESUME_DATA = {
     "Detail-oriented Frontend Engineer dedicated to building high-quality products.",
   summary:
     "As a Frontend Engineer, I specialize in taking products from concept to launch. Currently, I work mostly with TypeScript, Remix.js, Next.js React, and GraphQL. I have over 6 years of experience working remotely with companies worldwide.",
-  avatarUrl: "https://avatars.githubusercontent.com/u/19982257?v=4",
+  avatarUrl: "/profile.jpeg",
   personalWebsiteUrl: null,
   contact: {
     email: "me@omeryucel.dev",
