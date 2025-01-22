@@ -148,7 +148,7 @@ export default function Page() {
             })}
           </div>
         </Section>
-        <Section>
+        {/* <Section>
           <h2 className="text-xl font-bold">Education</h2>
           {RESUME_DATA.education.map((education) => {
             return (
@@ -169,7 +169,7 @@ export default function Page() {
               </Card>
             );
           })}
-        </Section>
+        </Section> */}
         <Section>
           <h2 className="text-xl font-bold">Skills</h2>
           <div className="flex flex-wrap gap-1">

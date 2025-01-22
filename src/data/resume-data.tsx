@@ -4,9 +4,9 @@ export const RESUME_DATA = {
   name: "Ömer Yücel",
   initials: "ÖY",
   location: "Istanbul, Turkey",
-  locationLink: "https://www.google.com/maps/place/Wrocław",
+  locationLink: "https://www.google.com/maps/place/%C4%B0stanbul",
   about:
-    "Detail-oriented Frontend Engineer dedicated to building high-quality products.",
+    "I am a Frontend Engineer with over 6 years of experience working remotely with companies worldwide. I specialize in taking products from concept to launch, mostly working with TypeScript, Remix.js, Next.js React, and GraphQL.",
   summary:
     "As a Frontend Engineer, I specialize in taking products from concept to launch. Currently, I work mostly with TypeScript, Remix.js, Next.js React, and GraphQL. I have over 6 years of experience working remotely with companies worldwide.",
   avatarUrl: "/profile.jpeg",
@@ -32,14 +32,14 @@ export const RESUME_DATA = {
       },
     ],
   },
-  education: [
-    {
-      school: "Istanbul Aydın University",
-      degree: "Faculty of Computer Science",
-      start: "2015",
-      end: "2017",
-    },
-  ],
+  // education: [
+  //   {
+  //     school: "Istanbul Aydın University",
+  //     degree: "Faculty of Computer Science",
+  //     start: "2015",
+  //     end: "2017",
+  //   },
+  // ],
   work: [
     {
       company: "Extra 360",
